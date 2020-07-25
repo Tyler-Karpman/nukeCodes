@@ -1,0 +1,9 @@
+*.py[cod]
+.idea/
+build
+dist/
+*.egg-info
+.python-version
+.DS_Store
+output/
+venv/
